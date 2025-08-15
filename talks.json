@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the latest features and upcoming changes in JavaScript."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "API", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build robust and scalable APIs using Node.js and Express."
+  },
+  {
+    "title": "CSS Grid and Flexbox for Modern Layouts",
+    "speakers": ["Emily White", "David Green"],
+    "category": ["CSS", "Frontend"],
+    "duration": 60,
+    "description": "Master the power of CSS Grid and Flexbox to create complex and responsive web layouts with ease."
+  },
+  {
+    "title": "State Management in React with Redux",
+    "speakers": ["Michael Johnson"],
+    "category": ["React", "JavaScript", "State Management"],
+    "duration": 60,
+    "description": "An introduction to Redux and how it can be used to manage application state in React."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Sarah Lee"],
+    "category": ["Python", "Machine Learning"],
+    "duration": 60,
+    "description": "Get started with machine learning using Python and popular libraries like Scikit-learn."
+  },
+  {
+    "title": "Securing Your Web Applications",
+    "speakers": ["Chris Davis"],
+    "category": ["Security", "Web Development"],
+    "duration": 60,
+    "description": "Learn about common web security vulnerabilities and how to protect your applications from them."
+  }
+]
